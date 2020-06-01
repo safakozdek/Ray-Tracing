@@ -5,8 +5,8 @@ Ray tracing is a rendering technique for generating an image by tracing the path
 
 ### Shading
 Another problem to solve was calculating if the point is under a shadow or not. To check it, you need to generate a **shadow ray** to check if there are obstacles between the light source and the intersection point. 
-![Ray-tracing-gif-2](https://www.scratchapixel.com/images/upload/introduction-to-ray-tracing/lightingnoshadow.gif)
-![Ray-tracing-gif-3](https://www.scratchapixel.com/images/upload/introduction-to-ray-tracing/lightingshadow.gif)
+![Ray-tracing-gif-2](https://github.com/safakozdek/Ray-Tracing/blob/master/some%20results/gif-2.gif)
+![Ray-tracing-gif-3](https://github.com/safakozdek/Ray-Tracing/blob/master/some%20results/gif-3.gif)
 
 
 However, without a proper shading model results look pretty unrealistic. For example the image below consists of 2 spheres aligned one after another on light source's direction. 
@@ -22,7 +22,7 @@ To make it more realistic, I decided to use [Phong Reflection Model](https://en.
 
 Also I used a recursive ray tracing approach to add reflections:
 
-![Recursive-diffuse-color](https://www.scratchapixel.com/images/upload/ray-tracing-refresher/rt-reflection2.gif)
+![Recursive-diffuse-color](https://github.com/safakozdek/Ray-Tracing/blob/master/some%20results/gif-4.gif)
 
 
 ### Results
