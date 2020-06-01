@@ -1,7 +1,7 @@
 # Ray-Tracing
 Ray tracing is a rendering technique for generating an image by tracing the path of light as pixels in an image plane. Basically, to generate an image of the environment you use view rays to calculate the color of each pixel. I have used several algebraic approaches to calculate ray-sphere and ray-plane intersections.
 
-![Ray-tracing-gif](https://www.scratchapixel.com/images/upload/ray-tracing-camera/campixel.gif)
+![Ray-tracing-gif](https://github.com/safakozdek/Ray-Tracing/blob/master/some%20results/gif-1.gif)
 
 ### Shading
 Another problem to solve was calculating if the point is under a shadow or not. To check it, you need to generate a **shadow ray** to check if there are obstacles between the light source and the intersection point. 
