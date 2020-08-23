@@ -4,7 +4,7 @@ Ray tracing is a rendering technique for generating an image by tracing the path
 ![Ray-tracing-gif](https://github.com/safakozdek/Ray-Tracing/blob/master/visuals/gif-1.gif)
 
 ### Shading
-Another problem to solve was calculating if the point is under a shadow or not. To check it, you need to generate a **shadow ray** to check if there are obstacles between the light source and the intersection point. 
+Another problem to solve was calculating if the point is under a shadow or not. To check it, you need to generate a **shadow ray** to check if there are obstacles between the light source and the intersection point.   
 ![Ray-tracing-gif-2](https://github.com/safakozdek/Ray-Tracing/blob/master/visuals/gif-2.gif)
 ![Ray-tracing-gif-3](https://github.com/safakozdek/Ray-Tracing/blob/master/visuals/gif-3.gif)
 
