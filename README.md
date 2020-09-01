@@ -57,3 +57,6 @@ You need an environment that has python3 with numpy and pillow libraries install
 * Output.png or output.jpeg will be generated.
 
 PS: It takes a few minutes to generate the output. Please be patient.
+
+## Contributing
+Pull-requests, issues, comments and stars are always appreciated!
