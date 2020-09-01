@@ -56,7 +56,7 @@ You need an environment that has python3 with numpy and pillow libraries install
 * Use `python ray_tracer.py` to run the script. 
 * Output.png or output.jpeg will be generated.
 
-PS: It takes a few minutes to generate the output. Please be patient.
+PS: It might take a few minutes to generate the output. Please be patient.
 
 ## Contributing
 Pull-requests, issues, comments and stars are always appreciated!
