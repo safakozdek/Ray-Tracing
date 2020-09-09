@@ -49,7 +49,7 @@ The final results looks more realistic:
 * **[reflection Coefficient]** 
 
 
-You can check example [input.txt](https://github.com/safakozdek/Ray-Tracing/blob/master/code/input.txt)
+You can check example [input.txt](https://github.com/safakozdek/Ray-Tracing/blob/master/input.txt)
 ### Run:
 You need an environment that has python3 with numpy and pillow libraries installed. Then follow the steps:
 * Modify input.txt which is located in the same directory with ray_tracer.py
